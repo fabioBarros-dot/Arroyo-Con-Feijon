@@ -1,0 +1,3861 @@
+fileFormatVersion: 2
+guid: 724362657a079bc44955305589315dd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5543122905172140646
+    second: Numero2_0
+  - first:
+      213: 8608601157820002552
+    second: Numero2_1
+  - first:
+      213: 1574116580474793090
+    second: Numero2_2
+  - first:
+      213: 478783045428241584
+    second: Numero2_3
+  - first:
+      213: 216440639947143302
+    second: Numero2_4
+  - first:
+      213: -3837904947219301757
+    second: Numero2_5
+  - first:
+      213: 377480330355642467
+    second: Numero2_6
+  - first:
+      213: -5841247489766032320
+    second: Numero2_7
+  - first:
+      213: 501058499077081285
+    second: Numero2_8
+  - first:
+      213: 3626491422608892665
+    second: Numero2_9
+  - first:
+      213: 2704143835953300884
+    second: Numero2_10
+  - first:
+      213: 6035975229890551951
+    second: Numero2_11
+  - first:
+      213: 4133818821772634294
+    second: Numero2_12
+  - first:
+      213: 392936082343176646
+    second: Numero2_13
+  - first:
+      213: -7532799632469313587
+    second: Numero2_14
+  - first:
+      213: -1113316266826059033
+    second: Numero2_15
+  - first:
+      213: -4308165140218589126
+    second: Numero2_16
+  - first:
+      213: 6540455166195427099
+    second: Numero2_17
+  - first:
+      213: 3591153345188201913
+    second: Numero2_18
+  - first:
+      213: 6917179247054910357
+    second: Numero2_19
+  - first:
+      213: 1358372440308022538
+    second: Numero2_20
+  - first:
+      213: -8363762319558125642
+    second: Numero2_21
+  - first:
+      213: 9009822462402708193
+    second: Numero2_22
+  - first:
+      213: -1242598952551397789
+    second: Numero2_23
+  - first:
+      213: -5043117345707407225
+    second: Numero2_24
+  - first:
+      213: -2631377630314297204
+    second: Numero2_25
+  - first:
+      213: 7111446898394057013
+    second: Numero2_26
+  - first:
+      213: 9197518282058025596
+    second: Numero2_27
+  - first:
+      213: -3916117478811882477
+    second: Numero2_28
+  - first:
+      213: -4672580410319748194
+    second: Numero2_29
+  - first:
+      213: -4432719700347229854
+    second: Numero2_30
+  - first:
+      213: 3409046472993120074
+    second: Numero2_31
+  - first:
+      213: 4941531445029612388
+    second: Numero2_32
+  - first:
+      213: 7463139856198556088
+    second: Numero2_33
+  - first:
+      213: -8198964724234681429
+    second: Numero2_34
+  - first:
+      213: 1369210961383961743
+    second: Numero2_35
+  - first:
+      213: -4461752199955094181
+    second: Numero2_36
+  - first:
+      213: 5721814098505157597
+    second: Numero2_37
+  - first:
+      213: -444878389067909356
+    second: Numero2_38
+  - first:
+      213: 143134177440720255
+    second: Numero2_39
+  - first:
+      213: 2869764275854909005
+    second: Numero2_40
+  - first:
+      213: -1114306097508555470
+    second: Numero2_41
+  - first:
+      213: 3155023341007660105
+    second: Numero2_42
+  - first:
+      213: 6663291241715090125
+    second: Numero2_43
+  - first:
+      213: -2270548592775336352
+    second: Numero2_44
+  - first:
+      213: -360012822838028379
+    second: Numero2_45
+  - first:
+      213: -2805639263333312868
+    second: Numero2_46
+  - first:
+      213: 2044957648453523901
+    second: Numero2_47
+  - first:
+      213: 5661900123275975040
+    second: Numero2_48
+  - first:
+      213: 8054287051415987942
+    second: Numero2_49
+  - first:
+      213: 7168872141907166100
+    second: Numero2_50
+  - first:
+      213: 1657249012146283335
+    second: Numero2_51
+  - first:
+      213: 3915257440963150589
+    second: Numero2_52
+  - first:
+      213: 2669634415442673016
+    second: Numero2_53
+  - first:
+      213: 4650894488130207859
+    second: Numero2_54
+  - first:
+      213: -2376002777708438799
+    second: Numero2_55
+  - first:
+      213: -7534802538453066616
+    second: Numero2_56
+  - first:
+      213: 4522722311264994157
+    second: Numero2_57
+  - first:
+      213: -548986311934921380
+    second: Numero2_58
+  - first:
+      213: 2037932862286791754
+    second: Numero2_59
+  - first:
+      213: 22635503808757932
+    second: Numero2_60
+  - first:
+      213: -688896189922897224
+    second: Numero2_61
+  - first:
+      213: 3946506745903308988
+    second: Numero2_62
+  - first:
+      213: 8951833985806753183
+    second: Numero2_63
+  - first:
+      213: 5255680170900347619
+    second: Numero2_64
+  - first:
+      213: 694864917684234561
+    second: Numero2_65
+  - first:
+      213: 7314157570969597141
+    second: Numero2_66
+  - first:
+      213: -6170105832693526414
+    second: Numero2_67
+  - first:
+      213: 5194813484874677126
+    second: Numero2_68
+  - first:
+      213: -292785863200471105
+    second: Numero2_69
+  - first:
+      213: 6648062578131795126
+    second: Numero2_70
+  - first:
+      213: -7492239445112979787
+    second: Numero2_71
+  - first:
+      213: 1513541794672907896
+    second: Numero2_72
+  - first:
+      213: 3126584483822253718
+    second: Numero2_73
+  - first:
+      213: 8546003538556252215
+    second: Numero2_74
+  - first:
+      213: 2091628434159566213
+    second: Numero2_75
+  - first:
+      213: 6067283982785025323
+    second: Numero2_76
+  - first:
+      213: 5027794747151148038
+    second: Numero2_77
+  - first:
+      213: 6479448301977325346
+    second: Numero2_78
+  - first:
+      213: 6836250831350152814
+    second: Numero2_79
+  - first:
+      213: -1206947926118432279
+    second: Numero2_80
+  - first:
+      213: 3680784585446791727
+    second: Numero2_81
+  - first:
+      213: -1636149297105588268
+    second: Numero2_82
+  - first:
+      213: -1132697608078879523
+    second: Numero2_83
+  - first:
+      213: -7705489184821342933
+    second: Numero2_84
+  - first:
+      213: 5629271333482758793
+    second: Numero2_85
+  - first:
+      213: -5411853299279263432
+    second: Numero2_86
+  - first:
+      213: 7130962544132490633
+    second: Numero2_87
+  - first:
+      213: 8563035789859241017
+    second: Numero2_88
+  - first:
+      213: -1709607092133151810
+    second: Numero2_89
+  - first:
+      213: -9071236688377570849
+    second: Numero2_90
+  - first:
+      213: -5517935066629038591
+    second: Numero2_91
+  - first:
+      213: 2945515712306708434
+    second: Numero2_92
+  - first:
+      213: 4185757318017739291
+    second: Numero2_93
+  - first:
+      213: -3003353770703061337
+    second: Numero2_94
+  - first:
+      213: -1387716198288480755
+    second: Numero2_95
+  - first:
+      213: -4561919901644857910
+    second: Numero2_96
+  - first:
+      213: 8332999207845884465
+    second: Numero2_97
+  - first:
+      213: 4216190443151029010
+    second: Numero2_98
+  - first:
+      213: 5624289897858600297
+    second: Numero2_99
+  - first:
+      213: -1499319294481068782
+    second: Numero2_100
+  - first:
+      213: 54164494560935681
+    second: Numero2_101
+  - first:
+      213: -4172899060717582663
+    second: Numero2_102
+  - first:
+      213: -3437062445938084893
+    second: Numero2_103
+  - first:
+      213: -3218976963371134935
+    second: Numero2_104
+  - first:
+      213: 7770583031975809413
+    second: Numero2_105
+  - first:
+      213: -6897944702069819014
+    second: Numero2_106
+  - first:
+      213: -2544309458907837644
+    second: Numero2_107
+  - first:
+      213: 5325981271013610694
+    second: Numero2_108
+  - first:
+      213: 408653585203223633
+    second: Numero2_109
+  - first:
+      213: 7731324743387301332
+    second: Numero2_110
+  - first:
+      213: 7963489306934545252
+    second: Numero2_111
+  - first:
+      213: 905019164611562773
+    second: Numero2_112
+  - first:
+      213: 6930633186934394463
+    second: Numero2_113
+  - first:
+      213: -6351852159365659883
+    second: Numero2_114
+  - first:
+      213: -1616654568590524129
+    second: Numero2_115
+  - first:
+      213: -5416427935562177412
+    second: Numero2_116
+  - first:
+      213: -34445930988625147
+    second: Numero2_117
+  - first:
+      213: -7682167611002978142
+    second: Numero2_118
+  - first:
+      213: 7396079853356021286
+    second: Numero2_119
+  - first:
+      213: 7589948058180964451
+    second: Numero2_120
+  - first:
+      213: -2867493869136182373
+    second: Numero2_121
+  - first:
+      213: 350036268778728266
+    second: Numero2_122
+  - first:
+      213: -4799372055301148543
+    second: Numero2_123
+  - first:
+      213: -3570261400161079985
+    second: Numero2_124
+  - first:
+      213: 2722304094977118023
+    second: Numero2_125
+  - first:
+      213: 5950438315485451338
+    second: Numero2_126
+  - first:
+      213: -8465272696448754314
+    second: Numero2_127
+  - first:
+      213: -3481904505318860330
+    second: Numero2_128
+  - first:
+      213: -8560967241782555072
+    second: Numero2_129
+  - first:
+      213: 5992472150994831666
+    second: Numero2_130
+  - first:
+      213: 8375262486858511093
+    second: Numero2_131
+  - first:
+      213: -1124605182724253785
+    second: Numero2_132
+  - first:
+      213: -1439079728862697516
+    second: Numero2_133
+  - first:
+      213: 4636534982585864173
+    second: Numero2_134
+  - first:
+      213: 8853156347637924056
+    second: Numero2_135
+  - first:
+      213: -4308151601768275195
+    second: Numero2_136
+  - first:
+      213: -7062805778691822626
+    second: Numero2_137
+  - first:
+      213: 8818058512248131306
+    second: Numero2_138
+  - first:
+      213: 2919638951456135712
+    second: Numero2_139
+  - first:
+      213: -4249656986314412753
+    second: Numero2_140
+  - first:
+      213: 8334178810151878349
+    second: Numero2_141
+  - first:
+      213: -5918656515315016969
+    second: Numero2_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Numero2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d12e2261fd213b0800000000000000
+      internalID: -5543122905172140646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0b0e88425e77770800000000000000
+      internalID: 8608601157820002552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ca04e90b268d510800000000000000
+      internalID: 1574116580474793090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4ea33a4aaf4a600800000000000000
+      internalID: 478783045428241584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688f1038d93f00300800000000000000
+      internalID: 216440639947143302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a774bd8c50dbac0800000000000000
+      internalID: -3837904947219301757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3609b884c541d3500800000000000000
+      internalID: 377480330355642467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c7a573b58bfeea0800000000000000
+      internalID: -5841247489766032320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c80e29dc0e14f600800000000000000
+      internalID: 501058499077081285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2aa912cb2e35230800000000000000
+      internalID: 3626491422608892665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4950f8bdd7c078520800000000000000
+      internalID: 2704143835953300884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80eeaadd7714c350800000000000000
+      internalID: 6035975229890551951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8e49501564e5930800000000000000
+      internalID: 4133818821772634294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9af77f84df37500800000000000000
+      internalID: 392936082343176646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7397e05ae167790800000000000000
+      internalID: -7532799632469313587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23b2101c4bc80f0800000000000000
+      internalID: -1113316266826059033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30dc8f61a25634c0800000000000000
+      internalID: -4308165140218589126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b176272225d54ca50800000000000000
+      internalID: 6540455166195427099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b506e1d0f656d130800000000000000
+      internalID: 3591153345188201913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_19
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593796c50e1ceff50800000000000000
+      internalID: 6917179247054910357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d7d399988e9d210800000000000000
+      internalID: 1358372440308022538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d0f4cb72fdeb80800000000000000
+      internalID: -8363762319558125642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e249d02bc1590d70800000000000000
+      internalID: 9009822462402708193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c6e216d661cee0800000000000000
+      internalID: -1242598952551397789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788cf706e7f330ab0800000000000000
+      internalID: -5043117345707407225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c880533acf77b7bd0800000000000000
+      internalID: -2631377630314297204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_26
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539c4d9a64fe0b260800000000000000
+      internalID: 7111446898394057013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aca31a52624af70800000000000000
+      internalID: 9197518282058025596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c28b8c6e727a9c0800000000000000
+      internalID: -3916117478811882477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93417a8fd8a72fb0800000000000000
+      internalID: -4672580410319748194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2696de70be0db72c0800000000000000
+      internalID: -4432719700347229854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 359
+        width: 1547
+        height: 1809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f9d8d84bd5f4f20800000000000000
+      internalID: 3409046472993120074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ba96bfaa8d39440800000000000000
+      internalID: 4941531445029612388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_33
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b956c56826629760800000000000000
+      internalID: 7463139856198556088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_34
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38806f50d673e80800000000000000
+      internalID: -8198964724234681429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_35
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84bcdf6d1a600310800000000000000
+      internalID: 1369210961383961743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2085
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55ebd5730ca412c0800000000000000
+      internalID: -4461752199955094181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2110
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbc83c6b97f76f40800000000000000
+      internalID: 5721814098505157597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2028
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417fb53567973d9f0800000000000000
+      internalID: -444878389067909356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2066
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f756299a6c38cf100800000000000000
+      internalID: 143134177440720255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e107b776373d720800000000000000
+      internalID: 2869764275854909005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23563f612803980f0800000000000000
+      internalID: -1114306097508555470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_42
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944e3da3305e8cb20800000000000000
+      internalID: 3155023341007660105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc24669a414c87c50800000000000000
+      internalID: 6663291241715090125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_44
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eec52b5146d70e0800000000000000
+      internalID: -2270548592775336352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1789
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7572cbe3af00bf0800000000000000
+      internalID: -360012822838028379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_46
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96112574fd5019d0800000000000000
+      internalID: -2805639263333312868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_47
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1789
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db95ac88526216c10800000000000000
+      internalID: 2044957648453523901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_48
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089da910a2c139e40800000000000000
+      internalID: 5661900123275975040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1707
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6adaa566396cf60800000000000000
+      internalID: 8054287051415987942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_50
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1745
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49302921b33fc7360800000000000000
+      internalID: 7168872141907166100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_51
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1707
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743a851323bbff610800000000000000
+      internalID: 1657249012146283335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_52
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1745
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df240dc06e9c55630800000000000000
+      internalID: 3915257440963150589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1646
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d3e944b527c0520800000000000000
+      internalID: 2669634415442673016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_54
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1646
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370c2dc35eb4b8040800000000000000
+      internalID: 4650894488130207859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_55
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1561
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fad851ff0eb60fd0800000000000000
+      internalID: -2376002777708438799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c1bca23010f6790800000000000000
+      internalID: -7534802538453066616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_57
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1561
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d630faccaffe3ce30800000000000000
+      internalID: 4522722311264994157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_58
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c553192abdb9168f0800000000000000
+      internalID: -548986311934921380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1485
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4403bc0421384c10800000000000000
+      internalID: 2037932862286791754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_60
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1509
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca045dbeeda605000800000000000000
+      internalID: 22635503808757932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1427
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b29680b09c8076f0800000000000000
+      internalID: -688896189922897224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ef35d9fec4c630800000000000000
+      internalID: 3946506745903308988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1367
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dd74cc49d4b3c70800000000000000
+      internalID: 8951833985806753183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1398
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea5497054defe840800000000000000
+      internalID: 5255680170900347619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_65
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149237906f7a4a900800000000000000
+      internalID: 694864917684234561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d470e80f8b118560800000000000000
+      internalID: 7314157570969597141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2709cbf8f616f5aa0800000000000000
+      internalID: -6170105832693526414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_68
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1188
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b3d58575fa71840800000000000000
+      internalID: 5194813484874677126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_69
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb70ea40fc0dfebf0800000000000000
+      internalID: -292785863200471105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_70
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1188
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfc1e11b9a24c50800000000000000
+      internalID: 6648062578131795126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_71
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5befed59be7360890800000000000000
+      internalID: -7492239445112979787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8769f204e3e210510800000000000000
+      internalID: 1513541794672907896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_73
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696397ec50cd36b20800000000000000
+      internalID: 3126584483822253718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_74
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73070ec80f0899670800000000000000
+      internalID: 8546003538556252215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_75
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dff2c9af4f60d10800000000000000
+      internalID: 2091628434159566213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_76
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b259151f2a2533450800000000000000
+      internalID: 6067283982785025323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604e4832fa056c540800000000000000
+      internalID: 5027794747151148038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_78
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fcddba6ef9be950800000000000000
+      internalID: 6479448301977325346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_79
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e381e39ed3fde50800000000000000
+      internalID: 6836250831350152814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_80
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 960
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e10151814f004fe0800000000000000
+      internalID: -1206947926118432279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_81
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a1a4e2416c41330800000000000000
+      internalID: 3680784585446791727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_82
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 960
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df248a02ea3b49e0800000000000000
+      internalID: -1636149297105588268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_83
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd41688d689d740f0800000000000000
+      internalID: -1132697608078879523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_84
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 883
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d0c1e696a901590800000000000000
+      internalID: -7705489184821342933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_85
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 908
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9828780e3703f1e40800000000000000
+      internalID: 5629271333482758793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_86
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 826
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390fe7f81c35e4b0800000000000000
+      internalID: -5411853299279263432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_87
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 864
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98502a507a446f260800000000000000
+      internalID: 7130962544132490633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c34859ea306d670800000000000000
+      internalID: 8563035789859241017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_89
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 797
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb3ae758614648e0800000000000000
+      internalID: -1709607092133151810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_90
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd993cb1b4e7c1280800000000000000
+      internalID: -9071236688377570849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e97ebca4b5c63b0800000000000000
+      internalID: -5517935066629038591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_92
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df7f503fe290e820800000000000000
+      internalID: 2945515712306708434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_93
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 587
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a60788a1cc61a30800000000000000
+      internalID: 4185757318017739291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_94
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aef96278a1f156d0800000000000000
+      internalID: -3003353770703061337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_95
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 587
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06a5f75877ddbce0800000000000000
+      internalID: -1387716198288480755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_96
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5ca0050ec0b0c0800000000000000
+      internalID: -4561919901644857910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_97
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 505
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132f34121a2c4a370800000000000000
+      internalID: 8332999207845884465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_98
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 543
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213f965aedae28a30800000000000000
+      internalID: 4216190443151029010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_99
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 505
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d0ea30ddd7d0e40800000000000000
+      internalID: 5624289897858600297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_100
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 543
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d019f9b09513be0800000000000000
+      internalID: -1499319294481068782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_101
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 444
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f3eb1225e60c000800000000000000
+      internalID: 54164494560935681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_102
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 444
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b60e5ac962e616c0800000000000000
+      internalID: -4172899060717582663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_103
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3760f6ae91d40d0800000000000000
+      internalID: -3437062445938084893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_104
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9201916b185e353d0800000000000000
+      internalID: -3218976963371134935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_105
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5819896e818a6db60800000000000000
+      internalID: 7770583031975809413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_106
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7937d027d39540a0800000000000000
+      internalID: -6897944702069819014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_107
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bc127070cc0bcd0800000000000000
+      internalID: -2544309458907837644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_108
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4562b6fbfa9e940800000000000000
+      internalID: 5325981271013610694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_109
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c5a364544dba500800000000000000
+      internalID: 408653585203223633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_110
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 307
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c9cc44ee2b4b60800000000000000
+      internalID: 7731324743387301332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_111
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b8470155ff38e60800000000000000
+      internalID: 7963489306934545252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_112
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 307
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc79d92264f8c00800000000000000
+      internalID: 905019164611562773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_113
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e02c7d92e8e2060800000000000000
+      internalID: 6930633186934394463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_114
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 307
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51346375d10b9d7a0800000000000000
+      internalID: -6351852159365659883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_115
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1146aa3c3d7099e0800000000000000
+      internalID: -1616654568590524129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_116
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 307
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7460557d7bf4d4b0800000000000000
+      internalID: -5416427935562177412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_117
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5032777bb9f958ff0800000000000000
+      internalID: -34445930988625147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_118
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a008297245736590800000000000000
+      internalID: -7682167611002978142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_119
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62675b5c07724a660800000000000000
+      internalID: 7396079853356021286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_120
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360da8fab89e45960800000000000000
+      internalID: 7589948058180964451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_121
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b930786c48d9438d0800000000000000
+      internalID: -2867493869136182373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_122
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b2f03c1249bd400800000000000000
+      internalID: 350036268778728266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_123
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180b6da3b84356db0800000000000000
+      internalID: -4799372055301148543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_124
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d2c103c22e37ec0800000000000000
+      internalID: -3570261400161079985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_125
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fc3b7a62197c520800000000000000
+      internalID: 2722304094977118023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_126
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4452640f14349250800000000000000
+      internalID: 5950438315485451338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_127
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ddb51655f458a80800000000000000
+      internalID: -8465272696448754314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_128
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d913a2ec4acdafc0800000000000000
+      internalID: -3481904505318860330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_129
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e8bcbc6a5513980800000000000000
+      internalID: -8560967241782555072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_130
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239c77efba9892350800000000000000
+      internalID: 5992472150994831666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_131
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f23bd59bd8ea3470800000000000000
+      internalID: 8375262486858511093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_132
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a758237b899460f0800000000000000
+      internalID: -1124605182724253785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_133
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d76ca57c9c570ce0800000000000000
+      internalID: -1439079728862697516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_134
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defc3b15008485040800000000000000
+      internalID: 4636534982585864173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_135
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d004f9cacabcda70800000000000000
+      internalID: 8853156347637924056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_136
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503621a91fe5634c0800000000000000
+      internalID: -4308151601768275195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_137
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb6f7b809fdbfd90800000000000000
+      internalID: -7062805778691822626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_138
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeec82f2f79006a70800000000000000
+      internalID: 8818058512248131306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_139
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02adfed4824a48820800000000000000
+      internalID: 2919638951456135712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_140
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2de8719c7f2605c0800000000000000
+      internalID: -4249656986314412753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_141
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb0b1b873f8a370800000000000000
+      internalID: 8334178810151878349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numero2_142
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fad819f145bcdda0800000000000000
+      internalID: -5918656515315016969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Numero2_0: -5543122905172140646
+      Numero2_1: 8608601157820002552
+      Numero2_10: 2704143835953300884
+      Numero2_100: -1499319294481068782
+      Numero2_101: 54164494560935681
+      Numero2_102: -4172899060717582663
+      Numero2_103: -3437062445938084893
+      Numero2_104: -3218976963371134935
+      Numero2_105: 7770583031975809413
+      Numero2_106: -6897944702069819014
+      Numero2_107: -2544309458907837644
+      Numero2_108: 5325981271013610694
+      Numero2_109: 408653585203223633
+      Numero2_11: 6035975229890551951
+      Numero2_110: 7731324743387301332
+      Numero2_111: 7963489306934545252
+      Numero2_112: 905019164611562773
+      Numero2_113: 6930633186934394463
+      Numero2_114: -6351852159365659883
+      Numero2_115: -1616654568590524129
+      Numero2_116: -5416427935562177412
+      Numero2_117: -34445930988625147
+      Numero2_118: -7682167611002978142
+      Numero2_119: 7396079853356021286
+      Numero2_12: 4133818821772634294
+      Numero2_120: 7589948058180964451
+      Numero2_121: -2867493869136182373
+      Numero2_122: 350036268778728266
+      Numero2_123: -4799372055301148543
+      Numero2_124: -3570261400161079985
+      Numero2_125: 2722304094977118023
+      Numero2_126: 5950438315485451338
+      Numero2_127: -8465272696448754314
+      Numero2_128: -3481904505318860330
+      Numero2_129: -8560967241782555072
+      Numero2_13: 392936082343176646
+      Numero2_130: 5992472150994831666
+      Numero2_131: 8375262486858511093
+      Numero2_132: -1124605182724253785
+      Numero2_133: -1439079728862697516
+      Numero2_134: 4636534982585864173
+      Numero2_135: 8853156347637924056
+      Numero2_136: -4308151601768275195
+      Numero2_137: -7062805778691822626
+      Numero2_138: 8818058512248131306
+      Numero2_139: 2919638951456135712
+      Numero2_14: -7532799632469313587
+      Numero2_140: -4249656986314412753
+      Numero2_141: 8334178810151878349
+      Numero2_142: -5918656515315016969
+      Numero2_15: -1113316266826059033
+      Numero2_16: -4308165140218589126
+      Numero2_17: 6540455166195427099
+      Numero2_18: 3591153345188201913
+      Numero2_19: 6917179247054910357
+      Numero2_2: 1574116580474793090
+      Numero2_20: 1358372440308022538
+      Numero2_21: -8363762319558125642
+      Numero2_22: 9009822462402708193
+      Numero2_23: -1242598952551397789
+      Numero2_24: -5043117345707407225
+      Numero2_25: -2631377630314297204
+      Numero2_26: 7111446898394057013
+      Numero2_27: 9197518282058025596
+      Numero2_28: -3916117478811882477
+      Numero2_29: -4672580410319748194
+      Numero2_3: 478783045428241584
+      Numero2_30: -4432719700347229854
+      Numero2_31: 3409046472993120074
+      Numero2_32: 4941531445029612388
+      Numero2_33: 7463139856198556088
+      Numero2_34: -8198964724234681429
+      Numero2_35: 1369210961383961743
+      Numero2_36: -4461752199955094181
+      Numero2_37: 5721814098505157597
+      Numero2_38: -444878389067909356
+      Numero2_39: 143134177440720255
+      Numero2_4: 216440639947143302
+      Numero2_40: 2869764275854909005
+      Numero2_41: -1114306097508555470
+      Numero2_42: 3155023341007660105
+      Numero2_43: 6663291241715090125
+      Numero2_44: -2270548592775336352
+      Numero2_45: -360012822838028379
+      Numero2_46: -2805639263333312868
+      Numero2_47: 2044957648453523901
+      Numero2_48: 5661900123275975040
+      Numero2_49: 8054287051415987942
+      Numero2_5: -3837904947219301757
+      Numero2_50: 7168872141907166100
+      Numero2_51: 1657249012146283335
+      Numero2_52: 3915257440963150589
+      Numero2_53: 2669634415442673016
+      Numero2_54: 4650894488130207859
+      Numero2_55: -2376002777708438799
+      Numero2_56: -7534802538453066616
+      Numero2_57: 4522722311264994157
+      Numero2_58: -548986311934921380
+      Numero2_59: 2037932862286791754
+      Numero2_6: 377480330355642467
+      Numero2_60: 22635503808757932
+      Numero2_61: -688896189922897224
+      Numero2_62: 3946506745903308988
+      Numero2_63: 8951833985806753183
+      Numero2_64: 5255680170900347619
+      Numero2_65: 694864917684234561
+      Numero2_66: 7314157570969597141
+      Numero2_67: -6170105832693526414
+      Numero2_68: 5194813484874677126
+      Numero2_69: -292785863200471105
+      Numero2_7: -5841247489766032320
+      Numero2_70: 6648062578131795126
+      Numero2_71: -7492239445112979787
+      Numero2_72: 1513541794672907896
+      Numero2_73: 3126584483822253718
+      Numero2_74: 8546003538556252215
+      Numero2_75: 2091628434159566213
+      Numero2_76: 6067283982785025323
+      Numero2_77: 5027794747151148038
+      Numero2_78: 6479448301977325346
+      Numero2_79: 6836250831350152814
+      Numero2_8: 501058499077081285
+      Numero2_80: -1206947926118432279
+      Numero2_81: 3680784585446791727
+      Numero2_82: -1636149297105588268
+      Numero2_83: -1132697608078879523
+      Numero2_84: -7705489184821342933
+      Numero2_85: 5629271333482758793
+      Numero2_86: -5411853299279263432
+      Numero2_87: 7130962544132490633
+      Numero2_88: 8563035789859241017
+      Numero2_89: -1709607092133151810
+      Numero2_9: 3626491422608892665
+      Numero2_90: -9071236688377570849
+      Numero2_91: -5517935066629038591
+      Numero2_92: 2945515712306708434
+      Numero2_93: 4185757318017739291
+      Numero2_94: -3003353770703061337
+      Numero2_95: -1387716198288480755
+      Numero2_96: -4561919901644857910
+      Numero2_97: 8332999207845884465
+      Numero2_98: 4216190443151029010
+      Numero2_99: 5624289897858600297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
